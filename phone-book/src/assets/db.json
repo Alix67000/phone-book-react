@@ -20,7 +20,7 @@
     },
     {
       "name": "Xavier Niel",
-      "job": "UX designer",
+      "job": "UX designerf",
       "date": 1621536146150,
       "id": 5
     },
@@ -35,6 +35,12 @@
       "job": "SEO",
       "date": 1642088790211,
       "id": 7
+    },
+    {
+      "name": "Alix",
+      "job": "Teslaaz",
+      "date": 1642100503359,
+      "id": 8
     }
   ]
 }

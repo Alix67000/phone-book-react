@@ -50,7 +50,7 @@ const Home = () => {
           placeholder="Job"
           value={job}
         />
-        <input type="submit" value="Send" />
+        <input type="submit" value="Add" />
       </form>
       <ul>
         {contactData
